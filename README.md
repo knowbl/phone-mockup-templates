@@ -8,6 +8,8 @@ For development mockups, web display, and demonstration purposes.
 
 ## iOS
 
+* [iPhone 7](ios/iphone-7/)
+
 ## Windows Phone
 
 ## Canonical source
