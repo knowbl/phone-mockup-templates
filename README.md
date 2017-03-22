@@ -9,6 +9,7 @@ For development mockups, web display, and demonstration purposes.
 ## iOS
 
 * [iPhone 7](ios/iphone-7/)
+* [iPhone 7 Plus](ios/iphone-7-plus/)
 
 ## Windows Phone
 
