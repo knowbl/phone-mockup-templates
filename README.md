@@ -10,7 +10,7 @@ For development mockups, web display, and demonstration purposes.
 
 * [iPad Air](ios/ipad-air/)
 * [iPhone 4s](ios/iphone-4s/)
-* [iPhone 5s](ios/iphone5s/)
+* [iPhone 5s](ios/iphone-5s/)
 * [iPhone 7](ios/iphone-7/)
 * [iPhone 7 Plus](ios/iphone-7-plus/)
 
